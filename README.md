@@ -1,7 +1,7 @@
 # ShareSelected.js
 *Share selected text on Twitter and some others social networks. Based on [Vincent Loy](http://vincent-loy.fr) [ShareSelectedText.js](https://github.com/VincentLoy/share-selected-text)*
 
-![share selected - ShareSelectedText.js](demo/sst.jpg)
+![share selected - ShareSelected.js](example.png)
 
 This is a little bit redesigned version of [ShareSelectedText.js](https://github.com/VincentLoy/share-selected-text)
 
